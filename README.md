@@ -1,4 +1,4 @@
-# laughing-goggles
+# CIS 4570
 Programs from CIS 4570
 
 This folder contains all the programs created in the CIS 4570 Advanced Java Programming class in Fall 2018.
